@@ -1,1 +1,9 @@
+# Ignorar entorno virtual
 venv_consultora/
+
+# Ignorar metadatos de macOS
+.DS_Store
+
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
